@@ -4,7 +4,7 @@
         <br>
         <br>
         <br>
-        <p>接收到：{{message}}</p>
+        <p>接收到1：{{message}}</p>
     </div>
 </template>
 
